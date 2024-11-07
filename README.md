@@ -88,7 +88,6 @@ export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account.json"
 ```
 
 If you're using OAuth2, ensure that the `client_secret.json` is present in the working directory.
-```
 
 ## Usage
 

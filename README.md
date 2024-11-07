@@ -168,7 +168,7 @@ If you would like to contribute to this project:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact  
-For any issues or inquiries, please open an issue on GitHub or contact [your-email@example.com].
+For any issues or inquiries, please open an issue on GitHub or contact [rgsuha6364@gmail.com].
 
 > **Note:** The service account email `your-service-account@drive-downloader-441020.iam.gserviceaccount.com` and the credentials used here are examples. You need to replace them with the credentials generated for your project.
 ### Explanation of Sections:

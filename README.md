@@ -69,7 +69,7 @@ For Service Account Authentication, follow these steps:
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_secret": "xxxxxxxxxxxx"
 }`}</pre>
-
+```
 ## 4. OAuth2 Authentication (Optional)
 
 If you wish to authenticate as a user (for personal Google Drive access), you will need to set up OAuth2 credentials:
